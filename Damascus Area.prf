@@ -43,7 +43,6 @@ Sounds	Sound18	\OSTT\Sounds\startup.wav
 ASRFastKeys	1	\OSTT\ASR\Damascus ACC.asr
 ASRFastKeys	2	\OSTT\ASR\Damascus SMR.asr
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin1Display2	Ground Radar display

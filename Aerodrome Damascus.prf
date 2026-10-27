@@ -46,5 +46,4 @@ ASRFastKeys	2	\OSTT\ASR\Damascus SMR.asr
 LastSession	atis_freq4	118000
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Standard ES radar screen
