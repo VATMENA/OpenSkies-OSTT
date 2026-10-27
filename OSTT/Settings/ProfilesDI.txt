@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:<Initials>_OBS:275:0
+ATIS2:Syria vACC Observer
+ATIS3:
+ATIS4:We love feedback! vats.im/mena/feedback
+PROFILE:OSDI_TWR:35:4
+ATIS2:"Damascus Tower"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSDI_GND:20:3
+ATIS2:"Damascus Ground"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+END

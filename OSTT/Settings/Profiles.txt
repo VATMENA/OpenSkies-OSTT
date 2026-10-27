@@ -1,0 +1,34 @@
+PROFILE
+PROFILE:<Initials>_OBS:275:0
+ATIS2:Syria vACC Observer
+ATIS3:
+ATIS4:We love feedback! vats.im/mena/feedback
+PROFILE:OSTT_CTR:400:6
+ATIS2:"Damascus Control"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSDI_APP:100:5
+ATIS2:"Damascus Control"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSAP_APP:100:5
+ATIS2:"Aleppo Radar"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSLK_APP:100:5
+ATIS2:"Damascus Control"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSAP_TWR:35:4
+ATIS2:"Aleppo Tower"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSLK_TWR:35:4
+ATIS2:"Latakia Tower"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+PROFILE:OSAP_GND:20:3
+ATIS2:"Aleppo Ground"
+ATIS3:Give us feedback! - vats.im/mena/feedback
+ATIS4:Welcome to VATMENA | For more info: vatsim.me
+END
