@@ -1,4 +1,4 @@
-Maps_URL=https://raw.githubusercontent.com/VATMENA/OpenSkies-OSTT/refs/heads/main/OSTT/Plugins/TopSky/TopSkySettings.txt
+Maps_URL=https://raw.githubusercontent.com/VATMENA/OpenSkies-OSTT/refs/heads/main/OSTT/Plugins/TopSky/TopSkyMaps.txt
 
 ; GENERAL SETUP
 Setup_COOPANS=1
