@@ -1,9 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\USER\Downloads\OPENSKIES\OSTT-Developer_20261025172139-261001-0010\OSTT-Developer_20261025172139-261001-0010.sct
-SECTORTITLE:OSTT-Developer_20261025172139-261001-0010.sct
-ARTCC high boundary:OSTT Damascus:
+SECTORFILE:
+SECTORTITLE:
 Geo:OSTT Landmark Coastline:
 VORs:ALE:symbol
 VORs:DAM:symbol
